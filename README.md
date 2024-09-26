@@ -1,6 +1,6 @@
 <!-- Titel Text Animation -->
 <p align=center>
-  <img align=center src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=34&duration=4000&pause=1000&color=F72CE8&center=true&vCenter=true&width=435&lines=Hi+There+%F0%9F%91%8B;I'm+Vinc+and+" alt="Typing SVG" />
+  <img align=center src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=34&duration=4000&pause=1000&color=006aff&center=true&vCenter=true&width=435&lines=Hi+There+%F0%9F%91%8B;I'm+Vinc+and+" alt="Typing SVG" />
 </p>
 
 <!-- List -->
@@ -24,7 +24,7 @@
 <hr/>
 <!--Skills Text Animation-->
 <p align=center>
-  <img align=center src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=34&duration=4000&pause=1000&color=F72CE8&center=true&vCenter=true&width=435&lines=I'm+working+with+%F0%9F%9A%80" alt="2" />
+  <img align=center src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=34&duration=4000&pause=1000&color=006aff&center=true&vCenter=true&width=435&lines=I'm+working+with:" alt="2" />
 </p>
 
 <!--Skills List-->
@@ -35,3 +35,13 @@
 </div>
 
 <br/>
+
+<hr/>
+
+<!--Stats-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vinc0739&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinc0739&theme=transparent" />
+</a>
