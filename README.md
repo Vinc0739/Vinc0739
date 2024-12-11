@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning **python**
   
-🔭 I’m currently working on **a discord bot + control panel**
+🔭 I’m currently working on **a discord bot school project**
 
 💬 Ask me about discord.py or anything [here](https://github.com/Vinc0739/Vinc0739/issues)
   
