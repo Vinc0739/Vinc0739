@@ -12,7 +12,7 @@
 
 💬 Ask me about discord.py or anything [here](https://github.com/Vinc0739/Vinc0739/issues)
   
-⚡Fun Fact: Coding is mostly about thinking, not typing – thinking
+⚡*Fun Fact:* Coding is mostly about thinking, not typing – thinking
   
 </div>
 
@@ -31,7 +31,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,mongodb,java,mysql,python" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,mongodb,java,mysql" /><br>
 </div>
 
 <br/>
@@ -39,9 +39,10 @@
 <hr/>
 
 <!--Stats-->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vinc0739&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinc0739&theme=transparent" />
-</a>
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=Vinc0739&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Vinc0739&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinc0739&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
