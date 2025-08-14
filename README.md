@@ -5,14 +5,8 @@
 
 <!-- List -->
 <div align=center>
-
-🌱 I’m currently learning **python**
   
 🔭 I’m currently working on **a discord bot school project**
-
-💬 Ask me about discord.py or anything [here](https://github.com/Vinc0739/Vinc0739/issues)
-  
-⚡*Fun Fact:* Coding is mostly about thinking, not typing – thinking
   
 </div>
 
@@ -28,21 +22,20 @@
 </p>
 
 <!--Skills List-->
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,mongodb,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=windows,vscode,idea,git,postgres,mysql"/>
 </div>
-
-<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,javascript" />
+</div>
 
 <hr/>
 
 <!--Stats-->
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=Vinc0739&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Vinc0739&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinc0739&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinc0739&show_icons=true&theme=dark)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Vinc0739&theme=dark)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinc0739&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
