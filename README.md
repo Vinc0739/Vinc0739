@@ -6,7 +6,7 @@
 <!-- List -->
 <div align=center>
   
-🔭 I’m currently working on **a discord bot school project**
+🔭 I’m currently working on **a discord bot school project** which is hosted on my **homeserver**
   
 </div>
 
@@ -23,7 +23,7 @@
 
 <!--Skills List-->
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=windows,vscode,idea,git,postgres,mysql"/>
+    <img src="https://skillicons.dev/icons?i=windows,vscode,idea,git,postgres,mysql,docker,ubuntu"/>
 </div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,java,javascript" />
