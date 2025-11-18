@@ -6,7 +6,7 @@
 <!-- List -->
 <div align=center>
   
-🔭 I’m currently working on **a discord bot school project** which is hosted on my **homeserver**
+I’m currently working on a **python discord bot** which is hosted on my **homeserver**
   
 </div>
 
@@ -23,7 +23,7 @@
 
 <!--Skills List-->
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=windows,vscode,idea,git,postgres,mysql,docker,ubuntu"/>
+    <img src="https://skillicons.dev/icons?i=windows,vscode,idea,postgres,docker,ubuntu"/>
 </div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,java,javascript" />
@@ -36,6 +36,7 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinc0739&show_icons=true&theme=dark)
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Vinc0739&theme=dark)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinc0739&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
+
+<img src="https://raw.githubusercontent.com/Vinc0739/Vinc0739/output/snake.svg" alt="Snake animation" />
