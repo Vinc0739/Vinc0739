@@ -34,10 +34,6 @@
 
 <p align="center">
   <a href="https://github.com/Vinc0739">
-    <img src="https://streak-stats.demolab.com?user=Vinc0739&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=600&card_height=200" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Vinc0739&theme=transparent&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
-
-
-<!-- View Tracker -->
-![](https://hit.yhype.me/github/profile?account_id=158764975)
